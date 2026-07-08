@@ -1,0 +1,7 @@
+,max_depth,min_samples_split,n_estimators,learning_rate,C,gamma,kernel,n_neighbors
+RandomForest,10.0,2.0,100.0,,,,,
+GradientBoosting,5.0,,100.0,0.1,,,,
+XGBoost,3.0,,200.0,0.1,,,,
+SVR,,,,,10,scale,linear,
+KNN,,,,,,,,7.0
+LinearRegression,,,,,,,,
